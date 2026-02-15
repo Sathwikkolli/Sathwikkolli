@@ -5,8 +5,8 @@
 ### Machine Learning Researcher • Speech AI • Anomaly Detection • Trustworthy AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sathwikkolli.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sathwik-kolli-427669214/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwik.kolli180703@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+Trustworthy+AI+Systems;Detecting+Audio+Deepfakes;Self-Supervised+Learning+Researcher;Anomaly+Detection+Specialist" alt="Typing SVG" />
 
@@ -198,8 +198,8 @@ GPU-accelerated training pipelines and large-scale ML infrastructure
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge)](https://sathwikkolli.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](linkedin.com/in/sathwik-kolli-427669214/)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:sathwik.kolli180703@gmail.com)
 
 <br>
 
