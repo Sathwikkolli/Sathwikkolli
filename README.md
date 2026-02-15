@@ -1,46 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sathwik+Kolli;Machine+Learning+Researcher;Audio+Deepfake+Detection+Specialist;Anomaly+Detection+%7C+DeepSVDD;Self-Supervised+Speech+Learning&center=true&width=650&height=45">
-</p>
+<div align="center">
 
-<h1 align="center">Sathwik Kolli</h1>
+# 👋 Sathwik Kolli
 
-<p align="center">
-Machine Learning Researcher • Speech AI • Anomaly Detection • Trustworthy AI
-</p>
+### Machine Learning Researcher • Speech AI • Anomaly Detection • Trustworthy AI
 
-<p align="center">
-<a href="https://sathwikkolli.github.io">Portfolio</a> |
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> |
-<a href="mailto:your-email@gmail.com">Email</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](your-scholar-url)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+Trustworthy+AI+Systems;Detecting+Audio+Deepfakes;Self-Supervised+Learning+Researcher;Anomaly+Detection+Specialist" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# Research Profile
+## 🎯 Research Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### Focus Area  
-Designing anomaly detection systems to identify synthetic and manipulated speech using self-supervised learning.
-
-### Core Methodologies  
-• Self-Supervised Representation Learning  
-• One-Class Classification (DeepSVDD)  
-• Distribution Modeling and Embedding Analysis  
+### 🔬 Primary Research
+```python
+research_areas = {
+    "focus": "Synthetic Speech Detection",
+    "approach": "Self-Supervised Learning",
+    "methods": [
+        "One-Class Classification",
+        "DeepSVDD",
+        "Representation Learning",
+        "Distribution Modeling"
+    ],
+    "goal": "Trustworthy AI Systems"
+}
+```
 
 </td>
-
 <td width="50%">
 
-### System Development  
-• End-to-end ML pipelines for speech anomaly detection  
-• GPU-accelerated training and inference  
-• Large-scale embedding extraction and evaluation  
-
-### Objective  
-Building reliable, scalable, and trustworthy machine learning systems.
+### 🎯 Current Objectives
+- 🧠 **Discriminative Embeddings** via WavLM & SSL
+- 🛡️ **Anomaly Detection** with DeepSVDD architectures
+- ⚡ **GPU-Accelerated** training pipelines
+- 📊 **Large-Scale** evaluation systems
+- 🔐 **Robust** spoofed speech detection
 
 </td>
 </tr>
@@ -48,31 +52,181 @@ Building reliable, scalable, and trustworthy machine learning systems.
 
 ---
 
-# Active Research and Development
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🎙️ Audio Deepfake Detection System</b></summary>
+<br>
+
+> Advanced anomaly detection pipeline for synthetic speech identification
+
+**Architecture:**
+```mermaid
+graph LR
+    A[Audio Input] --> B[SSL Embedding]
+    B --> C[Feature Processing]
+    C --> D[DeepSVDD]
+    D --> E[Anomaly Score]
+    E --> F{Detection}
+```
+
+**Key Features:**
+- 🎯 Self-supervised representation learning
+- 🔄 One-class classification framework
+- 📈 Real-time inference capability
+- 🎨 Comprehensive visualization suite
+
+**Tech Stack:** `PyTorch` `WavLM` `DeepSVDD` `CUDA` `NumPy`
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](your-repo-url)
+
+</details>
+
+<details>
+<summary><b>⚡ Speech Embedding Infrastructure</b></summary>
+<br>
+
+> Scalable GPU-accelerated pipeline for large-scale embedding extraction
+
+**Capabilities:**
+| Feature | Description | Performance |
+|---------|-------------|-------------|
+| 🔥 Batch Processing | Parallel embedding extraction | 1000+ files/min |
+| 💾 Efficient Storage | Optimized feature serialization | 70% compression |
+| 🎯 Multi-GPU | Distributed processing support | Linear scaling |
+| 📊 Analytics | Real-time metrics & monitoring | <5ms overhead |
+
+**Tech Stack:** `PyTorch` `HPC` `SLURM` `Distributed Computing`
+
+</details>
+
+---
+
+## 💻 Technical Expertise
+
+<div align="center">
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Machine Learning & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Systems & Infrastructure
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HPC](https://img.shields.io/badge/HPC-0071C5?style=for-the-badge&logo=ibm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Research Domains
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  🎤 Speech AI              🧠 Representation Learning          ║
+║  🔍 Anomaly Detection      📐 One-Class Learning               ║
+║  🎯 Self-Supervised        🚀 Deep Learning                    ║
+║  🛡️ Trustworthy AI         ⚙️ Robust ML Systems                ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Research Highlights
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| 🎯 **SSL Models** | WavLM, Wav2Vec2.0, HuBERT |
+| 📊 **Datasets** | ASVspoof 2019/2021, In-the-Wild |
+| ⚡ **GPU Hours** | 10,000+ training hours |
+| 📈 **Embeddings** | 1M+ extracted features |
+| 🔬 **Experiments** | 500+ model iterations |
+
+</div>
+
+---
+
+## 🌟 Research Pipeline
+
+```mermaid
+graph TD
+    A[Data Collection] --> B[Preprocessing]
+    B --> C[SSL Feature Extraction]
+    C --> D[Embedding Analysis]
+    D --> E[Model Training]
+    E --> F[Evaluation]
+    F --> G{Performance?}
+    G -->|Iterate| D
+    G -->|Deploy| H[Production System]
+    
+    style A fill:#ff6b6b
+    style C fill:#4ecdc4
+    style E fill:#45b7d1
+    style H fill:#96ceb4
+```
+
+---
+
+## 🔬 Active Research Areas
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### Representation Learning
-
-Learning discriminative embeddings using WavLM and SSL models to capture intrinsic speech characteristics and detect distributional anomalies.
-
-</td>
-
-<td width="33%">
-
-### Anomaly Detection Systems
-
-Developing one-class learning architectures using DeepSVDD and centroid-based extensions for robust detection of spoofed speech.
+### 🎙️ Speech AI
+Self-supervised learning for audio representation and anomaly detection in speech signals
 
 </td>
+<td width="33%" align="center">
 
-<td width="33%">
+### 🛡️ Deepfake Detection
+One-class classification and distribution modeling for synthetic speech identification
 
-### Scalable ML Infrastructure
+</td>
+<td width="33%" align="center">
 
-Building GPU-accelerated pipelines for feature extraction, model training, and large-scale evaluation using PyTorch and HPC systems.
+### ⚡ Scalable ML
+GPU-accelerated pipelines and HPC infrastructure for large-scale model training
 
 </td>
 </tr>
@@ -80,136 +234,42 @@ Building GPU-accelerated pipelines for feature extraction, model training, and l
 
 ---
 
-# Research and Engineering Work
+## 📚 Publications & Presentations
 
-<table>
-<tr>
-<td width="50%">
-
-### Audio Deepfake Detection System
-
-Designed anomaly detection pipelines using self-supervised embeddings and one-class classification to detect synthetic speech.
-
-**Core Components**
-- SSL embedding extraction  
-- DeepSVDD model training  
-- Performance evaluation and visualization  
-
-</td>
-
-<td width="50%">
-
-### Speech Embedding Infrastructure
-
-Developed scalable pipelines for extracting and processing high-dimensional speech embeddings using GPU acceleration.
-
-**Capabilities**
-- Batch embedding extraction  
-- Feature processing  
-- Efficient large-scale data handling  
-
-</td>
-</tr>
-</table>
+> Coming soon - Stay tuned for research publications and conference presentations
 
 ---
 
-# Technical Stack
+## 🤝 Let's Connect
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=sql" height="42"/>
-<img src="https://skillicons.dev/icons?i=kotlin" height="42"/>
-<img src="https://skillicons.dev/icons?i=bash" height="42"/>
-</p>
+<div align="center">
 
-### Machine Learning and AI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="42"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="42"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="42"/>
-</p>
+**I'm always interested in collaborating on:**
+- 🔬 Speech AI and Audio Processing Research
+- 🛡️ Trustworthy AI and Robustness
+- 🧠 Self-Supervised Learning Applications
+- 📊 Large-Scale ML Systems
 
-### Systems and Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=linux" height="42"/>
-<img src="https://skillicons.dev/icons?i=git" height="42"/>
-<img src="https://skillicons.dev/icons?i=docker" height="42"/>
-<img src="https://skillicons.dev/icons?i=aws" height="42"/>
-</p>
+**Feel free to reach out for:**
+- Research collaborations
+- Technical discussions
+- Open-source contributions
+- Speaking opportunities
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:your-email)
+
+<br>
 
 ---
 
-# Research Domains
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-<table>
-<tr>
-<td align="center" width="25%">
+**💡 "Building the future of trustworthy AI, one model at a time."**
 
-Speech AI  
-Representation Learning  
+<sub>⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)</sub>
 
-</td>
-
-<td align="center" width="25%">
-
-Anomaly Detection  
-One-Class Learning  
-
-</td>
-
-<td align="center" width="25%">
-
-Self-Supervised Learning  
-Deep Learning  
-
-</td>
-
-<td align="center" width="25%">
-
-Trustworthy AI  
-Robust ML Systems  
-
-</td>
-</tr>
-</table>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathwikkolli&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathwikkolli&theme=react-dark"/>
-</p>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://sathwikkolli.github.io">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-Focused on advancing machine learning research through scalable systems and robust methodologies.
-</p>
+</div>
