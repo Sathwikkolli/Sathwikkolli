@@ -1,83 +1,95 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sathwik+Kolli;Machine+Learning+Researcher;Audio+Deepfake+Detection;Anomaly+Detection+%7C+DeepSVDD;Self-Supervised+Learning&center=true&width=600&height=45">
+</p>
 
-# Sathwik Kolli
-
-Machine Learning Researcher  
-Audio Deepfake Detection • Anomaly Detection • Self-Supervised Learning
-
-[Portfolio](https://sathwikkolli.github.io) • 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) • 
-[GitHub](https://github.com/Sathwikkolli)
-
-</div>
+# Hi, I'm Sathwik Kolli 👋
 
 ---
 
-## Overview
+## 🚀 About Me
 
-I work on developing robust machine learning systems for detecting synthetic and manipulated audio using self-supervised representations and anomaly detection methods.
+Machine Learning Researcher specializing in audio deepfake detection, anomaly detection, and self-supervised learning using large-scale speech representations.
 
-My research focuses on learning discriminative representations from large-scale unstructured speech data and applying one-class learning techniques such as DeepSVDD to identify distributional anomalies.
+Research Assistant @ University of Michigan–Dearborn  
+Developing one-class anomaly detection systems using WavLM embeddings and DeepSVDD architectures for detecting synthetic and spoofed speech.
 
-My goal is to contribute to reliable and trustworthy AI systems through scalable research and engineering.
+Machine Learning Engineer with experience building scalable ML pipelines, embedding extraction systems, and GPU-accelerated training workflows.
 
----
-
-## Research Focus
-
-- Audio Deepfake Detection
-- One-Class Anomaly Detection
-- Self-Supervised Speech Models (WavLM, XLS-R)
-- Representation Learning
-- Robust and Trustworthy Machine Learning
+M.S. in Computer & Information Science (AI Focus) — University of Michigan–Dearborn (2024–2026)  
+B.Tech in Computer Science
 
 ---
 
-## Current Work
+## 🧠 Current Research Highlights
 
-- Building end-to-end deepfake detection pipelines using WavLM embeddings
-- Developing DeepSVDD and multi-centroid anomaly detection models
-- Designing scalable GPU-based embedding extraction pipelines
-- Evaluating detection robustness across real-world spoofing datasets
+Audio Deepfake Detection  
+Developed end-to-end pipelines using self-supervised speech models (WavLM, XLS-R) and DeepSVDD-based anomaly detection.
 
----
+Representation Learning  
+Extracted and analyzed high-dimensional speech embeddings from large-scale real and spoofed datasets.
 
-## Selected Projects
+Anomaly Detection Systems  
+Implemented one-class classification models and multi-centroid extensions for robust spoof detection.
 
-**Audio Deepfake Detection using WavLM and DeepSVDD**  
-End-to-end anomaly detection system for identifying synthetic speech using self-supervised embeddings and one-class classification.
-
-**Large-Scale Speech Embedding Extraction Pipeline**  
-High-performance pipeline for extracting and processing speech representations using GPU acceleration.
+Scalable ML Infrastructure  
+Built GPU-accelerated pipelines using PyTorch, Linux, and HPC clusters for efficient model training and evaluation.
 
 ---
 
-## Technical Profile
+## 🖥️ Technical Skills
 
-**Languages**  
-Python • SQL • Kotlin  
+### Programming & Systems
+Python • SQL • Kotlin • Linux • Git • Bash
 
-**Machine Learning**  
-PyTorch • NumPy • Pandas • Scikit-learn  
+### Machine Learning & AI
+PyTorch • Deep Learning • Anomaly Detection • Self-Supervised Learning  
+Speech Processing • Representation Learning • Model Evaluation
 
-**Specializations**  
-Anomaly Detection • Speech Processing • Deep Learning • Representation Learning  
+### Data & ML Tools
+NumPy • Pandas • Scikit-learn • Matplotlib • CUDA • HPC
 
-**Systems**  
-Linux • Git • CUDA • HPC Clusters  
-
----
-
-## Contact
-
-Portfolio: https://sathwikkolli.github.io  
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-Email: your-email@gmail.com
+### Infrastructure
+GPU Computing • Linux Systems • Experiment Tracking • Model Optimization
 
 ---
 
-<div align="center">
+## 📦 Research & Projects
 
-_"Building reliable machine learning systems through research and engineering."_
+### 🔍 Audio Deepfake Detection using WavLM + DeepSVDD
+Developed anomaly detection pipeline using self-supervised speech embeddings to detect spoofed speech with high reliability.
 
-</div>
+### 🎙️ Large-Scale Speech Embedding Extraction Pipeline
+Designed scalable GPU-based pipeline for extracting speech embeddings using WavLM for anomaly detection tasks.
+
+### 📊 One-Class Anomaly Detection Research
+Implemented DeepSVDD and multi-centroid anomaly detection models for robust classification of real vs synthetic speech.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathwikkolli&show_icons=true&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwikkolli&layout=compact&hide_border=true" height="170">
+</p>
+
+---
+
+## 🎯 Research Interests
+
+Audio Deepfake Detection  
+Anomaly Detection & One-Class Learning  
+Self-Supervised Representation Learning  
+Speech and Audio Machine Learning  
+Trustworthy and Robust AI Systems  
+
+---
+
+## 🤝 Let’s Connect
+
+Research collaborations in Machine Learning, Speech AI, and Anomaly Detection  
+
+📫 your-email@gmail.com  
+🌐 https://sathwikkolli.github.io  
+🔗 https://linkedin.com/in/YOUR-LINKEDIN  
+💻 https://github.com/Sathwikkolli
