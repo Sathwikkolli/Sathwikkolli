@@ -199,8 +199,9 @@ GPU-accelerated training pipelines and large-scale ML infrastructure
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge)](https://sathwikkolli.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](linkedin.com/in/sathwik-kolli-427669214/)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sathwik-kolli-427669214/)
 [![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:sathwik.kolli180703@gmail.com)
+
 
 <br>
 
