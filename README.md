@@ -1,95 +1,215 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sathwik+Kolli;Machine+Learning+Researcher;Audio+Deepfake+Detection;Anomaly+Detection+%7C+DeepSVDD;Self-Supervised+Learning&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sathwik+Kolli;Machine+Learning+Researcher;Audio+Deepfake+Detection+Specialist;Anomaly+Detection+%7C+DeepSVDD;Self-Supervised+Speech+Learning&center=true&width=650&height=45">
 </p>
 
-# Hi, I'm Sathwik Kolli 👋
-
----
-
-## 🚀 About Me
-
-Machine Learning Researcher specializing in audio deepfake detection, anomaly detection, and self-supervised learning using large-scale speech representations.
-
-Research Assistant @ University of Michigan–Dearborn  
-Developing one-class anomaly detection systems using WavLM embeddings and DeepSVDD architectures for detecting synthetic and spoofed speech.
-
-Machine Learning Engineer with experience building scalable ML pipelines, embedding extraction systems, and GPU-accelerated training workflows.
-
-M.S. in Computer & Information Science (AI Focus) — University of Michigan–Dearborn (2024–2026)  
-B.Tech in Computer Science
-
----
-
-## 🧠 Current Research Highlights
-
-Audio Deepfake Detection  
-Developed end-to-end pipelines using self-supervised speech models (WavLM, XLS-R) and DeepSVDD-based anomaly detection.
-
-Representation Learning  
-Extracted and analyzed high-dimensional speech embeddings from large-scale real and spoofed datasets.
-
-Anomaly Detection Systems  
-Implemented one-class classification models and multi-centroid extensions for robust spoof detection.
-
-Scalable ML Infrastructure  
-Built GPU-accelerated pipelines using PyTorch, Linux, and HPC clusters for efficient model training and evaluation.
-
----
-
-## 🖥️ Technical Skills
-
-### Programming & Systems
-Python • SQL • Kotlin • Linux • Git • Bash
-
-### Machine Learning & AI
-PyTorch • Deep Learning • Anomaly Detection • Self-Supervised Learning  
-Speech Processing • Representation Learning • Model Evaluation
-
-### Data & ML Tools
-NumPy • Pandas • Scikit-learn • Matplotlib • CUDA • HPC
-
-### Infrastructure
-GPU Computing • Linux Systems • Experiment Tracking • Model Optimization
-
----
-
-## 📦 Research & Projects
-
-### 🔍 Audio Deepfake Detection using WavLM + DeepSVDD
-Developed anomaly detection pipeline using self-supervised speech embeddings to detect spoofed speech with high reliability.
-
-### 🎙️ Large-Scale Speech Embedding Extraction Pipeline
-Designed scalable GPU-based pipeline for extracting speech embeddings using WavLM for anomaly detection tasks.
-
-### 📊 One-Class Anomaly Detection Research
-Implemented DeepSVDD and multi-centroid anomaly detection models for robust classification of real vs synthetic speech.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Sathwik Kolli</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathwikkolli&show_icons=true&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwikkolli&layout=compact&hide_border=true" height="170">
+Machine Learning Researcher • Speech AI • Anomaly Detection • Trustworthy AI
+</p>
+
+<p align="center">
+<a href="https://sathwikkolli.github.io">Portfolio</a> |
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> |
+<a href="mailto:your-email@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🎯 Research Interests
+# Research Profile
 
-Audio Deepfake Detection  
-Anomaly Detection & One-Class Learning  
-Self-Supervised Representation Learning  
-Speech and Audio Machine Learning  
-Trustworthy and Robust AI Systems  
+<table>
+<tr>
+<td width="50%">
+
+### Focus Area  
+Designing anomaly detection systems to identify synthetic and manipulated speech using self-supervised learning.
+
+### Core Methodologies  
+• Self-Supervised Representation Learning  
+• One-Class Classification (DeepSVDD)  
+• Distribution Modeling and Embedding Analysis  
+
+</td>
+
+<td width="50%">
+
+### System Development  
+• End-to-end ML pipelines for speech anomaly detection  
+• GPU-accelerated training and inference  
+• Large-scale embedding extraction and evaluation  
+
+### Objective  
+Building reliable, scalable, and trustworthy machine learning systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let’s Connect
+# Active Research and Development
 
-Research collaborations in Machine Learning, Speech AI, and Anomaly Detection  
+<table>
+<tr>
+<td width="33%">
 
-📫 your-email@gmail.com  
-🌐 https://sathwikkolli.github.io  
-🔗 https://linkedin.com/in/YOUR-LINKEDIN  
-💻 https://github.com/Sathwikkolli
+### Representation Learning
+
+Learning discriminative embeddings using WavLM and SSL models to capture intrinsic speech characteristics and detect distributional anomalies.
+
+</td>
+
+<td width="33%">
+
+### Anomaly Detection Systems
+
+Developing one-class learning architectures using DeepSVDD and centroid-based extensions for robust detection of spoofed speech.
+
+</td>
+
+<td width="33%">
+
+### Scalable ML Infrastructure
+
+Building GPU-accelerated pipelines for feature extraction, model training, and large-scale evaluation using PyTorch and HPC systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+# Research and Engineering Work
+
+<table>
+<tr>
+<td width="50%">
+
+### Audio Deepfake Detection System
+
+Designed anomaly detection pipelines using self-supervised embeddings and one-class classification to detect synthetic speech.
+
+**Core Components**
+- SSL embedding extraction  
+- DeepSVDD model training  
+- Performance evaluation and visualization  
+
+</td>
+
+<td width="50%">
+
+### Speech Embedding Infrastructure
+
+Developed scalable pipelines for extracting and processing high-dimensional speech embeddings using GPU acceleration.
+
+**Capabilities**
+- Batch embedding extraction  
+- Feature processing  
+- Efficient large-scale data handling  
+
+</td>
+</tr>
+</table>
+
+---
+
+# Technical Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=sql" height="42"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="42"/>
+<img src="https://skillicons.dev/icons?i=bash" height="42"/>
+</p>
+
+### Machine Learning and AI
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" height="42"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="42"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="42"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="42"/>
+</p>
+
+### Systems and Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=linux" height="42"/>
+<img src="https://skillicons.dev/icons?i=git" height="42"/>
+<img src="https://skillicons.dev/icons?i=docker" height="42"/>
+<img src="https://skillicons.dev/icons?i=aws" height="42"/>
+</p>
+
+---
+
+# Research Domains
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+Speech AI  
+Representation Learning  
+
+</td>
+
+<td align="center" width="25%">
+
+Anomaly Detection  
+One-Class Learning  
+
+</td>
+
+<td align="center" width="25%">
+
+Self-Supervised Learning  
+Deep Learning  
+
+</td>
+
+<td align="center" width="25%">
+
+Trustworthy AI  
+Robust ML Systems  
+
+</td>
+</tr>
+</table>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathwikkolli&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathwikkolli&theme=react-dark"/>
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://sathwikkolli.github.io">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Focused on advancing machine learning research through scalable systems and robust methodologies.
+</p>
